@@ -13,9 +13,7 @@ Gianfranco Frigerio<sup>1,2</sup>, Yunjia Lai<sup>3</sup>, Emma L. Schymanski<su
 <sup>3</sup> Department of Environmental Health Sciences, Mailman School of Public Health at Columbia University, New York, NY, USA.
 
 
-Corresponding authors: GF: frigerio.gianfranco@hsr.it & ELS: emma.schymanski@uni.lu 
-ORCIDs: GF: 0000-0002-3538-1443, YL: 0000-0002-1081-0897, ELS: 0000-0001-6868-8145, GWM: 0000-0001-8984-1284
-
+Corresponding authors: GF & ELS.
 
 
 
